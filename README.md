@@ -1,6 +1,6 @@
 # Journal Club Schedule
 
-Meetings are held from 11-12 biweekly on Thursdays in 235 Riley-Robb.
+Meetings are held from 11-12 biweekly on Tuesdays in 235 Riley-Robb.
 
 | Date  | Presenter       | Paper (with link)                                         |
 | :-------------------: | :--------------- | :---------------------------------------------- |
