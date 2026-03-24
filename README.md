@@ -9,5 +9,5 @@ Meetings are held from 11-12 biweekly on Tuesdays in 235 Riley-Robb.
 | 02/24 |   | **Journal Club Cancelled**  |
 | 03/10 | Luan  | [Machine learning–based extreme event attribution](https://www.science.org/doi/full/10.1126/sciadv.adl3242) |
 | 03/24 |Nino | [What Drives Crop Land Use Change during Multi-Year Droughts in California’s Central Valley? Prices or Concern for Water?](https://www.mdpi.com/2072-4292/13/4/650) |
-| 04/07 | Yifan | [Adaptation to Surface Water Scarcity in Irrigated Agriculture] (https://hagertynw.github.io/webfiles/Surface_Water_Adaptation.pdf)  |
+| 04/07 | Yifan | [Adaptation to Surface Water Scarcity in Irrigated Agriculture](https://hagertynw.github.io/webfiles/Surface_Water_Adaptation.pdf)  |
 | 04/21 | | |
