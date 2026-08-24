@@ -8,7 +8,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 08/31 |          |   |
 | 09/07 |          | Cancelled: Labor Day |
 | 09/14 |          |   |
-| 09/21 |          |   |
+| 09/21 | Nino     |   |
 | 09/28 |          |   |
 | 10/05 |          |   |
 | 10/12 |          |   |
