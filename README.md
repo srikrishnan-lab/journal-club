@@ -5,7 +5,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | Date  | Presenter       | Paper (with link)                                         |
 | :-------------------: | :--------------- | :---------------------------------------------- |
 | 08/24 | Xiangwen |   [Climate Impacts of Hydrogen and Methane Emissions Can Considerably Reduce the Climate Benefits across Key Hydrogen Use Cases and Time Scales](https://pubs.acs.org/esthag/article/58/12/5299/165561/Climate-Impacts-of-Hydrogen-and-Methane-Emissions)  |
-| 08/31 |  Luan        |   |
+| 08/31 |  Luan        | [Global emergence of regional heatwave hotspots outpaces climate model simulations](https://www.pnas.org/doi/full/10.1073/pnas.2411258121)  |
 | 09/07 |          | Cancelled: Labor Day |
 | 09/14 |  Yifan   |   |
 | 09/21 | Nino     |   |
