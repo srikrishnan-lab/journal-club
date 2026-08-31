@@ -15,7 +15,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 10/19 |          |   |
 | 10/26 |          |   |
 | 11/02 |          |   |
-| 11/09 |          | Yifan not present (DMDU) |
+| 11/09 |          |   |
 | 11/16 |          |   |
 | 11/23 |          |   |
 | 11/30 |          |   |
