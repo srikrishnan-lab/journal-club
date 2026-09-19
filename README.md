@@ -10,7 +10,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 09/14 |  Yifan   | [A 1,200-year perspective of 21st century drought in southwestern North America](https://doi.org/10.1073/pnas.0911197107) |
 | 09/21 | Nino     |[Modeling Future Groundwater Depletion to Evaluate Sustainability Goals Set Under the Sustainable Groundwater Management Act in the Critically Overdrafted Basins of the Central Valley, California, USA (2020–2070)](https://doi.org/10.1029/2025WR040639)|
 | 09/28 |          |   |
-| 10/05 |  Yifan   | [Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000 (https://doi.org/10.1126/science.1212222)  |
+| 10/05 |  Yifan   | [Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000](https://doi.org/10.1126/science.1212222)  |
 | 10/12 |          |   |
 | 10/19 |          |   |
 | 10/26 |          |   |
