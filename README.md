@@ -11,7 +11,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 09/21 | Nino     |[Modeling Future Groundwater Depletion to Evaluate Sustainability Goals Set Under the Sustainable Groundwater Management Act in the Critically Overdrafted Basins of the Central Valley, California, USA (2020–2070)](https://doi.org/10.1029/2025WR040639)|
 | 09/28 |  Yifan   | [Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000](https://doi.org/10.1126/science.1212222)  | 
 | 10/05 | Xiangwen | [Atmospheric H2 variability over the past 1,100 years](https://www.nature.com/articles/s41586-026-10099-1) (No need to read Methods) |
-| 10/12 |          |   |
+| 10/12 |          | Cancelled: Fall Break |
 | 10/19 |          |   |
 | 10/26 |          |   |
 | 11/02 |          |   |
