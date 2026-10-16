@@ -12,7 +12,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 09/28 |  Yifan   | [Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000](https://doi.org/10.1126/science.1212222)  | 
 | 10/05 | Xiangwen | [Atmospheric H2 variability over the past 1,100 years](https://www.nature.com/articles/s41586-026-10099-1) (No need to read Methods) |
 | 10/12 |          | Cancelled: Fall Break |
-| 10/19 |          |   |
+| 10/19 |   Luan       |  [The other climate crisis](https://www.nature.com/articles/s41586-025-08680-1) |
 | 10/26 |          |   |
 | 11/02 |          |   |
 | 11/09 |          |   |
