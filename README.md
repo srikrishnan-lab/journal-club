@@ -17,7 +17,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 11/02 |   Xiangwen       |   |
 | 11/09 |          | Cancelled: DMDU |
 | 11/16 |          | Cancelled: IAMC |
-| 11/23 |   Yifan       |   |
+| 11/23 |   Yifan  | [Observed heavy precipitation increase confirms theory and early models](https://www.nature.com/articles/nclimate3110) |
 | 11/30 |          |   |
 | 12/07 |          | Cancelled: AGU |
 | 12/14 |          |   |
