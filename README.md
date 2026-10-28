@@ -14,7 +14,7 @@ Meetings are held from 2:30-3:30pm weekly on Mondays in 319 Riley-Robb.
 | 10/12 |          | Cancelled: Fall Break |
 | 10/19 |   Luan       |  [The other climate crisis](https://www.nature.com/articles/s41586-025-08680-1) |
 | 10/26 |   Nino       | [Mapping Philadelphia's Floodscape: A 35-Year Analysis of Coastal Urban Flood Hazards and Drivers](https://doi.org/10.1029/2025EF006915)  |
-| 11/02 |   Xiangwen       |   |
+| 11/02 |   Xiangwen       | [Prioritizing demand-side use of clean hydrogen for cost-effective mitigation](https://www.nature.com/articles/s41558-026-02763-1) |
 | 11/09 |          | Cancelled: DMDU |
 | 11/16 |          | Cancelled: IAMC |
 | 11/23 |   Yifan  | [Observed heavy precipitation increase confirms theory and early models](https://www.nature.com/articles/nclimate3110) |
